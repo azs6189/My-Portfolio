@@ -1,3 +1,4 @@
+/* begin css styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,10 +6,13 @@
     color: #404040;
 }
 
+/* background color for entire web page */
 html {
     background-color: white;
 }
 
+
+/* CSS styling for navigation bar */
 nav {
     background-color: #81d8d0;
     height: 50px;
@@ -26,6 +30,7 @@ nav {
     padding-top: 20px;
 }
 
+/* CSS styling for navigation bar links */
 a {
     color: white;
     text-decoration: none;
@@ -37,6 +42,7 @@ h2 {
     font-size: 30px;
 }
 
+/* About Me styling */
 .aboutme {
     padding: 30px;
     height: 300px;
@@ -51,6 +57,7 @@ h2 {
     border-radius: 50%;
 }
 
+/* Portfolio styling */
 .portfolio {
     padding: 40px;
     height: 300px;
@@ -81,13 +88,12 @@ h2 {
     font-size: 12px;
 }
 
-
 .projectscontainer {
     align-content: center;
     position: relative;
 }
 
-
+/* Resume styling */
 .resume {
     padding: 40px;
     height: 300px;
@@ -95,7 +101,7 @@ h2 {
     margin: 10px;
 }
 
-
+/* Contact Me styling */
 .contactme {
     padding: 30px;
     height: 300px;
