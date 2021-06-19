@@ -112,7 +112,8 @@ h2 {
 
 .contactmecontainer {
     display: flex;
-}
+    justify-content: space-evenly;
+} 
 
 #contactmeLinkedin img{
     max-height: 40px;
