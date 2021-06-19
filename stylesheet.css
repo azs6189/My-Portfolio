@@ -102,6 +102,7 @@ h2 {
 }
 
 /* Contact Me styling */
+
 .contactme {
     padding: 30px;
     height: 300px;
@@ -109,14 +110,18 @@ h2 {
     margin: 10px;
 }
 
-.contactmeLinkedin img{
+.contactmecontainer {
+    display: flex;
+}
+
+#contactmeLinkedin img{
     max-height: 40px;
     border-style: solid;
     border-color: #81d8d0;
     border-radius: 10%;
 }
 
-.contactmeGithub img{
+#contactmeGithub img{
     max-height: 40px;
     border-style: solid;
     border-color: #81d8d0;
