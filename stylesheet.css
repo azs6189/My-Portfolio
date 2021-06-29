@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     color: #404040;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* background color for entire web page */
@@ -21,7 +22,7 @@ nav {
     top: 0;
     position: fixed;
     margin: 0;
-    z-index: 3;
+    z-index: 3; 
 }
 
 .header div ul li {
@@ -40,6 +41,11 @@ a {
 h2 {
     padding-bottom: 20px;
     font-size: 30px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
 }
 
 /* About Me styling */
@@ -63,6 +69,7 @@ h2 {
     height: 300px;
     background-color: #F0F0F0;
     margin: 10px;
+    
 }
 .portfolio img{
     max-height: 150px;
