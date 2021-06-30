@@ -18,3 +18,4 @@ https://github.com/azs6189/My-Portfolio.git
 
 
 Screenshot of My-Portfolio web page
+https://github.com/azs6189/My-Portfolio/blob/main/assets/images/My-Portfolio-Screenshot.png
