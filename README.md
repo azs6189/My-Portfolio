@@ -17,5 +17,8 @@ Github repo for My-Portfolio
 https://github.com/azs6189/My-Portfolio.git
 
 
-Screenshot of My-Portfolio web page
+Link for deployed webpage of My-Portfolio
+https://azs6189.github.io/My-Portfolio/
+
+Screenshot deployed webpage for My-Portfolio
 ![My-Portfolio](images/my-portfolio.png)
