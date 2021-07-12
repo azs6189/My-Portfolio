@@ -10,13 +10,6 @@ My Portfolio repo also contains a link to a pdf version of my resume in the nav 
 My Portfolio repo also contains a link to my LinkedIn and GitHub pages.
 
 
-Github deployed link
-https://azs6189.github.io/My-Portfolio/
-
-Github repo for My-Portfolio
-https://github.com/azs6189/My-Portfolio.git
-
-
 Link for deployed webpage of My-Portfolio
 https://azs6189.github.io/My-Portfolio/
 
